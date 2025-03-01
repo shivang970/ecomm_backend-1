@@ -24,7 +24,15 @@ This is a backend system for managing and processing orders in an e-commerce pla
    git clone https://github.com/shivang970/ecomm_backend-1.git
    cd ecomm_backend-1
 
-2. Install dependencies:
+2. Create virtual environment
+   ```bash
+   cd /your-path/ecomm_backend-1
+   ```
+   ```bash
+   python -m venv .venv
+   ```
+
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
 ---
