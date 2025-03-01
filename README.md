@@ -43,9 +43,15 @@ This is a backend system for managing and processing orders in an e-commerce pla
 ```
 ---
 ## Run the tests
+1. Install dependencies:
+   ```bash
+   pip install -r requirement-test.txt
+   ```
+2. Set ENV to test
    ```bash
    set ENV=test
    ```
+3. To the tests
    ```bash
    python -m unittest discover tests -v
 ```
