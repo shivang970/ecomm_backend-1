@@ -22,7 +22,7 @@ This is a backend system for managing and processing orders in an e-commerce pla
 1. Clone the repository:
    ```bash
    git clone https://github.com/shivang970/ecomm_backend-1.git
-   cd ecommerce-backend
+   cd ecomm_backend-1
 
 2. Install dependencies:
    ```bash
