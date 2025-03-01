@@ -21,7 +21,7 @@ This is a backend system for managing and processing orders in an e-commerce pla
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-backend.git
+   git clone https://github.com/shivang970/ecomm_backend-1.git
    cd ecommerce-backend
 
 2. Install dependencies:
